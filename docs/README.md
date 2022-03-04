@@ -5,7 +5,7 @@
 * work
 * chore
 
-[ ] test
-[ ] task
-[ ] work
-[ ] chore
+[ ] test  
+[ ] task  
+[ ] work  
+[ ] chore  
